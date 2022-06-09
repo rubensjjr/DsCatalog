@@ -1,6 +1,5 @@
 package rubensProjetos.com.Dscatalog.resources.exceptions;
 
-import java.nio.file.Path;
 import java.time.Instant;
 
 import javax.servlet.http.HttpServletRequest;
